@@ -9,3 +9,5 @@
 - CF & XDP: https://blog.cloudflare.com/l4drop-xdp-ebpf-based-ddos-mitigations/
 - FB edge FW: https://cilium.io/blog/2018/11/20/fb-bpf-firewall
 - kubectl-trace: https://github.com/iovisor/kubectl-trace
+- Sysdig / Falco libs: https://github.com/falcosecurity/libs
+- Cillium ebpf library: https://github.com/cilium/ebpf / https://pkg.go.dev/github.com/cilium/ebpf
